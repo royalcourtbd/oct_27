@@ -11,7 +11,7 @@ class MyDrawer extends StatelessWidget {
           DrawerHeader(
             child: Text('Aita kisu Hoilo'),
             decoration: BoxDecoration(
-              color: Colors.blue,
+              color: Colors.green,
             ),
           ),
           ListTile(
